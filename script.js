@@ -33,7 +33,6 @@ var lines = [
   "Greado says -Yeeeees?- in his Greado way",
   "Leo says -Bossman-",
   "Peter critisizes a pug hunter's talents and general wellbeing",
-  "Gibus + Pyrovision",
   "Tai sounds unamused)",
   "Murlock sounds",
   "Pi threatens to go to Tai's house",
